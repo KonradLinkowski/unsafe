@@ -1,0 +1,19 @@
+{
+  "name": "unsafe",
+  "version": "1.0.0",
+  "description": "Just a npm scripts test, do not install this!",
+  "main": "index.js",
+  "scripts": {
+    "install": "echo 'wtf'",
+    "preinstall": "echo 'pre install'",
+    "postinstall": "echo 'post install'",
+    "prepare": "echo 'prepare'"
+  },
+  "keywords": [
+    "unsafe",
+    "virus",
+    "npm"
+  ],
+  "author": "Konrad Linkowski",
+  "license": "MIT"
+}
